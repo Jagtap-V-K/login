@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .row {
+    background-color: #b0e0e6;
+    border-radius: 30px;
+    box-shadow: 4px 4px 4px;
+    width: auto;
+    height: 40rem;
+  }
+  img {
+    width: 120%;
+    height: 40rem;
+    border-bottom-left-radius: 400px;
+    border-top-right-radius: 500px;
+  }
+  .login h1 {
+    font-size: 6rem;
+    font-weight: 300;
+  }
+  .inp {
+    /*input*/
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: 1px 2px 1px 2px rgba(255, 255, 255, 0.156);
+  }
+  .btn1 {
+    width: 180px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    background-color: #b3ffff;
+  }
+  .btn1:hover {
+    background-color: honeydew;
+    transition: 1s;
+  }
+  .fa-facebook {
+    padding: 10px;
+    font-size: 40px;
+  }
+  .fa-facebook:hover {
+    color: #39569c;
+  }
+  .fa-instagram {
+    padding: 10px;
+    font-size: 40px;
+  }
+  .fa-instagram:hover {
+    color: rgb(243, 17, 255);
+  }
+  .fa-linkedin {
+    padding: 10px;
+    font-size: 40px;
+  }
+  .fa-linkedin:hover {
+    color: rgb(76, 76, 225);
+  }
+  .fa-github {
+    padding: 10px;
+    font-size: 40px;
+  }
+  .fa-github:hover {
+    color: #ebd8bd;
+  }
+  .fa-discord {
+    padding: 10px;
+    font-size: 40px;
+  }
+  .fa-discord:hover {
+    color: purple;
+  }
+  .fa-twitter {
+    padding: 10px;
+    font-size: 40px;
+  }
+  .fa-twitter:hover {
+    color: blue;
+  }
+  h1 {
+    font-family: "Sofia", sans-serif;
+  }
+  
